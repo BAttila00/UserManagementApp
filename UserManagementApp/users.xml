@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Id>2</Id>
+    <UserName>asd02asd</UserName>
+    <PasswordHash>7f11c93717947aff07418707a9918109139218fc7218831a48f2dbefbdd50498</PasswordHash>
+    <SureName>cc</SureName>
+    <FirstName>cc</FirstName>
+    <DateOfBirth>2022-04-05T00:00:00</DateOfBirth>
+    <PlaceOfBirth>tt</PlaceOfBirth>
+    <PlaceOfLiving>tztzaaa</PlaceOfLiving>
+  </User>
+  <User>
+    <Id>3</Id>
+    <UserName>asd02</UserName>
+    <PasswordHash>ed02457b5c41d964dbd2f2a609d63fe1bb7528dbe55e1abf5b52c249cd735797</PasswordHash>
+    <SureName>aa</SureName>
+    <FirstName>bb</FirstName>
+    <DateOfBirth>2022-03-08T00:00:00</DateOfBirth>
+    <PlaceOfBirth>dk</PlaceOfBirth>
+    <PlaceOfLiving>dk</PlaceOfLiving>
+  </User>
+  <User>
+    <Id>4</Id>
+    <UserName>asd03</UserName>
+    <PasswordHash>e48e46e6c99a9f966760f3135792d0b2b076875c51ae0a0cc0fabd5e4b87bc95</PasswordHash>
+    <SureName>asd</SureName>
+    <FirstName>03</FirstName>
+    <DateOfBirth>2022-03-08T00:00:00</DateOfBirth>
+    <PlaceOfBirth>budapest</PlaceOfBirth>
+    <PlaceOfLiving>egerttt</PlaceOfLiving>
+  </User>
+  <User>
+    <Id>1</Id>
+    <UserName>asd01</UserName>
+    <PasswordHash>a29b78b5fc29b1c62456f33fdcf19e60c3843316578f9e418d8414f29ec06973</PasswordHash>
+    <SureName>ttt</SureName>
+    <FirstName>ttt</FirstName>
+    <DateOfBirth>2022-03-01T00:00:00</DateOfBirth>
+    <PlaceOfBirth>ttt</PlaceOfBirth>
+    <PlaceOfLiving>ttt</PlaceOfLiving>
+  </User>
+</ArrayOfUser>
